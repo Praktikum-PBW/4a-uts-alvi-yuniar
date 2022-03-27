@@ -1,0 +1,50 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+h5{
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav-item{
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: #deba9d;
+}
+label{
+    font-family: 'Courier New', Courier, monospace;
+    color: #5c3d3e;
+}
+input{
+    background-color: #b4846c;
+    font-family: 'Courier New', Courier, monospace;
+}
+.card{
+    width: 320px; 
+    height: 700px;
+    background-color: #ffeddb;
+    border-color: #5c3d3e;
+}
+.card-body{
+    background-color: #ffeddb;
+}
+.btn{
+    background-color: #b4846c;
+    border-color: #5c3d3e;
+}
+.carousel-inner{
+    margin: auto;
+    width: 1400px;
+    height: 700px;
+}
+.form-check{
+    color: #5c3d3e;
+}
+.carousel-caption{
+    margin-bottom: 900px;
+}
